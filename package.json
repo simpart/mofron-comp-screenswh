@@ -1,0 +1,27 @@
+{
+  "name": "mofron-comp-screenswh",
+  "version": "0.0.1",
+  "description": "screen switch component for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-comp-screenswh.git"
+  },
+  "dependencies": {
+    "mofron-comp-switch" : "",
+    "mofron-comp-screenif" : "",
+    "mofron-event-click" : ""
+  },
+  "keywords": [
+    "front-end"
+  ],
+  "author": "simparts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-comp-screenswh/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-comp-screenswh#readme"
+}
